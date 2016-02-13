@@ -1,0 +1,27 @@
+{
+  "name": "quotality",
+  "version": "1.0.0",
+  "description": "Bookmate quotality",
+  "dependencies": {
+    "express": "4.13.4",
+    "ip": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shershnev-AV/quotality.git"
+  },
+  "keywords": [
+    "bookmate",
+    "quotes",
+    "quotality"
+  ],
+  "author": "Gerasim Ambartcumian, Nikita Misharin, Alexander Shershnev, Pavel Znamensky",
+  "bugs": {
+    "url": "https://github.com/Shershnev-AV/quotality/issues"
+  },
+  "homepage": "https://github.com/Shershnev-AV/quotality#readme"
+}
